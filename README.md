@@ -12,7 +12,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Installation
 
-1. **Clone the repository:**
+1. **Clone the repository and 'cd' into it:**
 
    ```
    git clone https://github.com/mahernadar/nyrkr.git
