@@ -12,7 +12,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Installation
 
-1. **Clone the repository:**
+1. **Clone the repository:** <br>
 
    ```
    git clone https://github.com/mahernadar/nyrkr.git
@@ -20,7 +20,7 @@ These instructions will help you get a copy of the project up and running on you
    ```
 
 
-2. **Setup Virtual Environment**
+2. **Setup Virtual Environment** <br>
 
 	 On Windows
 	`python -m venv nyrkr`
@@ -30,7 +30,8 @@ These instructions will help you get a copy of the project up and running on you
 	`python3 -m venv nyrkr`
 
 
-3. **Activate Virtual Environment**
+3. **Activate Virtual Environment**<br>
+
 	 On Windows
 	`.\nyrkr\Scripts\activate`
 
