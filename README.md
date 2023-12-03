@@ -12,7 +12,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Installation
 
-1. **Clone the repository:** <br>
+1. **Clone the repository:**
 
    ```
    git clone https://github.com/mahernadar/nyrkr.git
@@ -20,7 +20,7 @@ These instructions will help you get a copy of the project up and running on you
    ```
 
 
-2. **Setup Virtual Environment** <br>
+2. **Setup Virtual Environment**
 
 	 On Windows
 	`python -m venv nyrkr`
@@ -30,8 +30,7 @@ These instructions will help you get a copy of the project up and running on you
 	`python3 -m venv nyrkr`
 
 
-3. **Activate Virtual Environment**<br>
-
+3. **Activate Virtual Environment**
 	 On Windows
 	`.\nyrkr\Scripts\activate`
 
@@ -46,5 +45,8 @@ These instructions will help you get a copy of the project up and running on you
 ## Usage
 
  For each section of the case study (namely pricing and regression), a notebook can be executed to follow through the code that is needed.
+
+
+For the section on regression, you can activate the "tuning" cell by setting it to `True` to enable hyperparameters tuning.
 
  [presentation link](https://docs.google.com/presentation/d/16cp2viQGZjt4-9KpPV30k7BBxZU4AdEpTxp3Aj0-0Oc/edit?usp=sharing)
